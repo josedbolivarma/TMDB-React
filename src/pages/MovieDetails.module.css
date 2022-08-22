@@ -1,0 +1,17 @@
+.detailsContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin: 15px;
+    color: #FFF;
+}
+
+.col {
+    max-width: 400px;
+}
+
+.movieImage {
+    border-radius: 15px;
+}
